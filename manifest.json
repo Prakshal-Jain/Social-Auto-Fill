@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Social Autofill",
+    "version": "1.0",
+    "description": "Suggests your social handles for autofill.",
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "action": {
+        "default_popup": "hello.html"
+    },
+    "permissions": [
+        "background",
+        "storage"
+    ]
+}
