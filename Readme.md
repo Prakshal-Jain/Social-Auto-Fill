@@ -2,5 +2,4 @@
 
 <video controls autoplay>
   <source src="rec.mov" type="video/mov">
-  Your browser does not support the video tag.
 </video>
