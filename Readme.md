@@ -1,2 +1,2 @@
 ## Autofill your social links/credentials (built in 2 hours)
-https://youtu.be/GT7IMYOg8DE
+[![IMAGE ALT TEXT HERE](rec.png)](https://youtu.be/GT7IMYOg8DE)
